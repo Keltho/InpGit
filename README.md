@@ -3,3 +3,5 @@ Geben Sie Ihren Gruppennamen ein und commiten Sie ihre Änderung mit einer Meldu
 
 Thomas Keller
 Thomas Keller
+
+Gruppe 1: Gubler / Thach
