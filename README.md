@@ -2,6 +2,5 @@
 Geben Sie Ihren Gruppennamen ein und commiten Sie ihre Änderung mit einer Meldung. Warten Sie bis die 2. Frage gestellt wird.
 
 Thomas Keller
-Thomas Keller
 
 Gruppe 1: Gubler / Thach
